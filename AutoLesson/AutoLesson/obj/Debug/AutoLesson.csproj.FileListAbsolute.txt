@@ -1,0 +1,7 @@
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\bin\Debug\AutoLesson.exe.config
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\bin\Debug\AutoLesson.exe
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\bin\Debug\AutoLesson.pdb
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\obj\Debug\AutoLesson.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\obj\Debug\AutoLesson.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\obj\Debug\AutoLesson.exe
+C:\Users\ЛебедевВ\source\repos\AutoLesson\AutoLesson\obj\Debug\AutoLesson.pdb
