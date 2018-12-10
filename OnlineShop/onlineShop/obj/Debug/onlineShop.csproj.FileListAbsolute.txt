@@ -1,0 +1,13 @@
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\obj\Debug\onlineShop.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\obj\Debug\onlineShop.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\onlineShop.exe.config
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\onlineShop.exe
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\onlineShop.pdb
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\obj\Debug\onlineShop.exe
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\obj\Debug\onlineShop.pdb
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\EntityFramework.dll
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\EntityFramework.xml
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ЛебедевВ\source\repos\onlineShop\onlineShop\obj\Debug\onlineShop.csproj.CopyComplete
