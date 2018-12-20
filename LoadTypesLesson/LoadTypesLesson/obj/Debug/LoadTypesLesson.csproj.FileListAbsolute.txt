@@ -1,0 +1,16 @@
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\LoadTypesLesson.exe.config
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\LoadTypesLesson.exe
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\LoadTypesLesson.pdb
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.dll
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.xml
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csprojAssemblyReference.cache
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csproj.CoreCompileInputs.cache
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csproj.CopyComplete
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.exe
+c:\users\лебедевв\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.pdb
+C:\Users\ЛебедевВ\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.Migrations.initialcreate.resources
+C:\Users\ЛебедевВ\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csproj.GenerateResource.cache
+C:\Users\ЛебедевВ\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.Migrations.Addsomeproperties.resources
