@@ -1,0 +1,24 @@
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.csprojAssemblyReference.cache
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.AddUserWindow.resources
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.ChangeUserWindow.resources
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.Form1.resources
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.Properties.Resources.resources
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.csproj.GenerateResource.cache
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.csproj.CoreCompileInputs.cache
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\bin\Debug\HomeWorkAdoWin.exe.config
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\bin\Debug\HomeWorkAdoWin.exe
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\bin\Debug\HomeWorkAdoWin.pdb
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.exe
+C:\Users\77077\Documents\Visual Studio 2017\Projects\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.pdb
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\bin\Debug\HomeWorkAdoWin.exe.config
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\bin\Debug\HomeWorkAdoWin.exe
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\bin\Debug\HomeWorkAdoWin.pdb
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.AddUserWindow.resources
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.ChangeUserWindow.resources
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.Form1.resources
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.Properties.Resources.resources
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.csproj.GenerateResource.cache
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.exe
+C:\Users\ЛебедевВ\Desktop\AdoNetWinFormHomeWork-master\HomeWorkAdoWin\HomeWorkAdoWin\obj\Debug\HomeWorkAdoWin.pdb
