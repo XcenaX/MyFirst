@@ -1,0 +1,15 @@
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\bin\Debug\SimpleControls.exe.config
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\bin\Debug\SimpleControls.exe
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\bin\Debug\SimpleControls.pdb
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.csprojAssemblyReference.cache
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\MainWindow.g.cs
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\App.g.cs
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls_MarkupCompile.cache
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls_MarkupCompile.lref
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\MainWindow.baml
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.g.resources
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.Properties.Resources.resources
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.csproj.GenerateResource.cache
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.csproj.CoreCompileInputs.cache
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.exe
+c:\users\лебедевв\source\repos\SimpleControls\SimpleControls\obj\Debug\SimpleControls.pdb
